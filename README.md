@@ -32,8 +32,16 @@ git clone https://github.com/Ravdar/clint_game
 ```python
 pip install -r requirements.txt
 ```
+# Screenshots
 
 # Credits
+* Almost all of the images are from [flaticon.com](https://www.flaticon.com/)
+* Clint's sprite is from user schew1 from [opengameart.org](https://opengameart.org/content/cowboy-sprite)
+* Sound effects are from [freesound.org](https://freesound.org/) and [pixabay.com](https://pixabay.com/sound-effects/)
+* And finally, menu and gameplay music by extremely talented [McDoxo](https://soundcloud.com/mc-doxo)
 
+
+
+# 
 Join Cowboy Clint in his adventurous run through the wild west! Have a rootin' tootin' good time dodging obstacles, collecting bonuses, and setting high scores. Saddle up and let the run begin! 🤠🏜️
 
