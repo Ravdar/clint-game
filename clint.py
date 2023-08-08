@@ -15,35 +15,35 @@ class Clint:
         self.original_image = pygame.image.load("images/clint/clint_walk1.png")
         self.image = pygame.transform.scale(
             self.original_image, (0.035 * self.screen_width, 0.11 * self.screen_height)
-        )  # Tutaj zmienić tak, żeby wielkość była uzależniona od wielkości ekranu
+        )
         self.image = self.image.convert_alpha()
         self.image.set_colorkey((255, 255, 255))
 
         self.original_image2 = pygame.image.load("images/clint/clint_walk2.png")
         self.image2 = pygame.transform.scale(
             self.original_image2, (0.035 * self.screen_width, 0.11 * self.screen_height)
-        )  # Tutaj zmienić tak, żeby wielkość była uzależniona od wielkości ekranu
+        )
         self.image2 = self.image2.convert_alpha()
         self.image2.set_colorkey((255, 255, 255))
 
         self.original_image3 = pygame.image.load("images/clint/clint_walk3.png")
         self.image3 = pygame.transform.scale(
             self.original_image3, (0.035 * self.screen_width, 0.11 * self.screen_height)
-        )  # Tutaj zmienić tak, żeby wielkość była uzależniona od wielkości ekranu
+        )
         self.image3 = self.image3.convert_alpha()
         self.image3.set_colorkey((255, 255, 255))
 
         self.original_image4 = pygame.image.load("images/clint/clint_jump.png")
         self.image4 = pygame.transform.scale(
             self.original_image4, (0.041 * self.screen_width, 0.11 * self.screen_height)
-        )  # Tutaj zmienić tak, żeby wielkość była uzależniona od wielkości ekranu
+        )
         self.image4 = self.image4.convert_alpha()
         self.image4.set_colorkey((255, 255, 255))
 
         self.original_image5 = pygame.image.load("images/clint/clint_dash.png")
         self.image5 = pygame.transform.scale(
             self.original_image5, (0.035 * self.screen_width, 0.11 * self.screen_height)
-        )  # Tutaj zmienić tak, żeby wielkość była uzależniona od wielkości ekranu
+        )
         self.image5 = self.image5.convert_alpha()
         self.image5.set_colorkey((255, 255, 255))
 

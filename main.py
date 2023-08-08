@@ -123,7 +123,7 @@ class ClintGame:
         # Importing sounds used in a game
         self.menu_music = pygame.mixer.Sound(
             "audio/DOXO - Under The Sun.wav"
-        )  #  tutaj dać if last played < tyle ile trwa piosenka to nie grać dalel
+        )
         self.game_music = pygame.mixer.Sound("audio/DOXO - Stalion.wav")
         self.game_music.set_volume(0.75)
         self.shot_sound = pygame.mixer.Sound("audio/shot.wav")
@@ -213,7 +213,8 @@ class ClintGame:
         self.clock.tick(60)
 
     def check_keydown_events(self, event):
-        # Moving player
+        """Moving  player"""
+        
         if self.stats.game_over == False:
             if event.key == pygame.K_UP:
                 self.clint.jump = True
@@ -249,6 +250,7 @@ class ClintGame:
             self.quit()
 
     def check_keyup_events(self, event):
+        """Handle key up events"""
         if event.key == pygame.K_UP:
             self.clint.jump = False
         elif event.key == pygame.K_DOWN:
@@ -259,7 +261,8 @@ class ClintGame:
             self.clint.moving_left = False
 
     def update_screen(self):
-        """Handle key up events"""
+        """Screen updating loop"""
+        
 
         self.screen.fill(self.settings.bg_color)
         for bg in self.bgs.sprites():

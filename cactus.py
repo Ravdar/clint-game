@@ -30,7 +30,6 @@ class Cactus(Sprite):
         else:
             self.original_image = pygame.image.load("images/enemies/cacti/cactus3.png")
 
-        # wielkosc od 70 do 90
         self.image = pygame.transform.scale(
             self.original_image, (self.size, self.size)
         ).convert()
