@@ -1,6 +1,10 @@
 # 🤠Clint Adventures: The Mystery of King Scorpio (unfinished)
 Clint Adventures: The Mystery of King Scorpio is an endless runner game created using the Pygame library. It is not yet complete, as it requires code refactoring and the addition of a couple of functionalities. Get ready to join Cowboy Clint on a thrilling adventure through the wild west, as he chases after his beloved horse while overcoming various obstacles and challenges. How far can you run?
 
+https://github.com/Ravdar/clint_game/assets/97836782/605a81ea-9b6a-4a85-9b8b-756a67892200
+
+Check out longer version of gameplay [here.](https://www.youtube.com/watch?v=XKqaqZhAgHw)
+
 # Gameplay
 In Clint Adventures: The Mystery of King Scorpio, you'll control the main character, Cowboy Clint, as he dashes through the wild west landscape. Your goal is to help him run as far as possible, avoiding various obstacles and enemies that stand in his way.
 
