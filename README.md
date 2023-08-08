@@ -1,8 +1,8 @@
-# 🤠Clint Game: The Secret of King Scorpio (unfinished)
-Clint Game: The Secret of King Scorpio is an endless runner game created using the Pygame library. It is not yet complete, as it requires code refactoring and the addition of a couple of functionalities. Get ready to join Cowboy Clint on a thrilling adventure through the wild west, as he chases after his beloved horse while overcoming various obstacles and challenges. How far can you run?
+# 🤠Clint Adventures: The Mystery of King Scorpio (unfinished)
+Clint Adventures: The Mystery of King Scorpio is an endless runner game created using the Pygame library. It is not yet complete, as it requires code refactoring and the addition of a couple of functionalities. Get ready to join Cowboy Clint on a thrilling adventure through the wild west, as he chases after his beloved horse while overcoming various obstacles and challenges. How far can you run?
 
 # Gameplay
-In Clint Game: The Secret of King Scorpio, you'll control the main character, Cowboy Clint, as he dashes through the wild west landscape. Your goal is to help him run as far as possible, avoiding various obstacles and enemies that stand in his way.
+In Clint Adventures: The Mystery of King Scorpio, you'll control the main character, Cowboy Clint, as he dashes through the wild west landscape. Your goal is to help him run as far as possible, avoiding various obstacles and enemies that stand in his way.
 
 ## Obstacles
 * Bombs: Watch out for bombs falling from the sky. Make sure to jump or dash to avoid them! 💣
@@ -18,10 +18,10 @@ In Clint Game: The Secret of King Scorpio, you'll control the main character, Co
 * Tequila: Beware of the tequila! If you drink it, the controls will become swapped, making it challenging to maneuver Clint.🍸🔄
 
 ## Controls
-Up Arrow: Jump
-Down Arrow: Dash
-Left Arrow: Move left
-Right Arrow: Move right
+* Up Arrow: Jump
+* Down Arrow: Dash
+* Left Arrow: Move left
+* Right Arrow: Move right
 
 # Installation
 1. Clone the repository:
@@ -33,6 +33,12 @@ git clone https://github.com/Ravdar/clint_game
 pip install -r requirements.txt
 ```
 # Screenshots
+![clint_menu](https://github.com/Ravdar/clint_game/assets/97836782/00492dd5-09fd-462b-bf2b-6b4c5dd0500e)
+![clint horse](https://github.com/Ravdar/clint_game/assets/97836782/6d7cd7ba-947b-496d-a64d-3c7e2fd79c56)
+![clint_bandit_life](https://github.com/Ravdar/clint_game/assets/97836782/20968464-2197-4961-998f-b7b53796763d)
+![clint jump](https://github.com/Ravdar/clint_game/assets/97836782/7fde6675-a857-4251-b712-9ec3b186482c)
+![clint_game_over](https://github.com/Ravdar/clint_game/assets/97836782/cf7f77f7-2e1f-4bf6-b8ae-b840f42eecb0)
+
 
 # Credits
 * Almost all of the images are from [flaticon.com](https://www.flaticon.com/)
